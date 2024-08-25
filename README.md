@@ -1,12 +1,4 @@
-## Getting Started
+# flutter-api-basics
+This Flutter project is a hands-on exploration of essential concepts like HTTP requests, JSON parsing, and asynchronous programming using FutureBuilder
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app demonstrates how to fetch data from an API, parse it into usable objects, and display it with responsive UI components. It serves as a practical learning tool for mastering the basics of networking and data handling in Flutter."
